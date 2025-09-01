@@ -1,10 +1,10 @@
-# 🔐 Phishing Simulation Project – IBM Internship | Nikhil Kumar
+#  Phishing Simulation Project – IBM Internship | Nikhil Kumar
 
 This project simulates a phishing attack to demonstrate how attackers steal credentials and how such threats can be mitigated. Conducted as part of an IBM internship and academic coursework, the simulation was executed using **Zphisher** on **Kali Linux**, with **LocalXpose** enabling external access. The aim is to raise awareness about phishing tactics and promote essential cybersecurity practices.
 
 ---
 
-## 🚩 Objectives
+## Objectives
 
 - Simulate a real-world phishing attack in a controlled environment  
 - Capture and analyze credential data  
@@ -13,7 +13,7 @@ This project simulates a phishing attack to demonstrate how attackers steal cred
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - Kali Linux (VirtualBox Environment)  
 - Zphisher  
@@ -23,7 +23,7 @@ This project simulates a phishing attack to demonstrate how attackers steal cred
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - Phishing site mimicking Instagram  
 - Credential capture including IP address and browser details  
@@ -33,7 +33,7 @@ This project simulates a phishing attack to demonstrate how attackers steal cred
 
 ---
 
-## 📊 Key Learnings
+##  Key Learnings
 
 - Ethical use of phishing tools in a safe simulation  
 - The importance of HTTPS and Two-Factor Authentication (2FA)  
@@ -42,7 +42,7 @@ This project simulates a phishing attack to demonstrate how attackers steal cred
 
 ---
 
-## 🧠 Future Scope
+##  Future Scope
 
 - Extend simulations to mobile environments and apps  
 - Develop a phishing awareness training module  
@@ -50,17 +50,17 @@ This project simulates a phishing attack to demonstrate how attackers steal cred
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠ Disclaimer
 
 This project is intended **strictly for educational purposes**. No real users were harmed or targeted. Simulations were conducted in a controlled, ethical environment to demonstrate potential cyber threats and enhance awareness.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 This structure reflects the phased development of the project, including visual evidence (screenshots), reports, and the complete documentation in a readable format.
 
-## 👨‍💻 Author
+## Author
 
 **Nikhil Kumar**  
 Roll No: 22BCY10158  
